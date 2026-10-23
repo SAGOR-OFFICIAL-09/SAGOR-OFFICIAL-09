@@ -1,31 +1,137 @@
-# Hi there, I'm Sagor 👋
+<a name="top"></a>
 
-> 🇧🇩 Builder from Bangladesh — I turn ideas into bots, APIs & websites.
+<div align="center">
 
-## 🚀 What I Build
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-white.svg">
+  <img src="./assets/header-black.svg" width="100%" alt="Jahidul Islam"/>
+</picture>
 
-- 🤖 **Messenger Bots** — Mirai / Goat / Ryuko merges, 130+ commands
-- 🔌 **SAGOR APIs** — song download, image edit, emoji mix, FB info & more
-- 🎬 **AI Cartoon YouTube Channel** — *AI Cartoon Bangla*
-- 🌐 **Web Apps** — Rabina AI assistant, downloader sites, personal sites
+<br/>
 
-## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Node.js-00f5a0?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-00d9f5?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-7b61ff?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-00f5a0?style=for-the-badge&logo=css3&logoColor=black"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0F?style=flat&logo=railway&logoColor=white)
+<br/>
 
-## 📊 GitHub Stats
+<img src="https://img.shields.io/github/followers/SAGOR-OFFICIAL-09?style=flat-square&color=00d9f5&logo=github&labelColor=555" alt="followers"/>
+<img src="https://img.shields.io/github/commit-activity/y/SAGOR-OFFICIAL-09/SAGOR-OFFICIAL-09?style=flat-square&color=00f5a0&labelColor=555" alt="commits"/>
+<img src="https://img.shields.io/github/last-commit/SAGOR-OFFICIAL-09/SAGOR-OFFICIAL-09?style=flat-square&color=7b61ff&labelColor=555" alt="last commit"/>
 
-![Sagor's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAGOR-OFFICIAL-09&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGOR-OFFICIAL-09&layout=compact&theme=radical)
+<br/><br/>
 
-## 📫 Find Me
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-555?style=for-the-badge&labelColor=555&color=00b377"/></a>
+<a href="#skills"><img src="https://img.shields.io/badge/SKILLS-555?style=for-the-badge&labelColor=555&color=0097c7"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-555?style=for-the-badge&labelColor=555&color=5a3fe0"/></a>
+<a href="#activity"><img src="https://img.shields.io/badge/ACTIVITY-555?style=for-the-badge&labelColor=555&color=00b377"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-555?style=for-the-badge&labelColor=555&color=0097c7"/></a>
 
-- 🎵 TikTok: **11sagor_islam**
-- ▶️ YouTube: **AI Cartoon Bangla** (@aiicartoonbangla)
+</div>
 
----
-*⚡ "Talk less, ship more."*
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<a name="about"></a>
+<h2 align="center">⚡ ABOUT ME</h2>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-white.svg">
+  <img src="./assets/terminal-black.svg" width="720" alt="terminal"/>
+</picture>
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="250"><h3>🌱</h3><b>LEARNING</b><br/><sub>Node.js · HTML · CSS · JS</sub></td>
+<td align="center" width="250"><h3>🔒</h3><b>BUILDING</b><br/><sub>Private Projects</sub></td>
+<td align="center" width="250"><h3>🎯</h3><b>AIMING FOR</b><br/><sub>Full Stack Mastery</sub></td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<a name="skills"></a>
+<h2 align="center">🧠 SKILLS</h2>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-white.svg">
+  <img src="./assets/skills-black.svg" width="720" alt="skills"/>
+</picture>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<a name="projects"></a>
+<h2 align="center">🚀 PROJECTS</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="620">
+
+### 📦 sim-Api
+A Node.js API project.<br/>
+<img src="https://img.shields.io/badge/Node.js-00f5a0?style=flat-square&logo=nodedotjs&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-7b61ff?style=flat-square"/>
+
+<a href="https://github.com/SAGOR-OFFICIAL-09/sim-Api"><img src="https://img.shields.io/badge/VIEW%20REPO%20→-00d9f5?style=for-the-badge"/></a>
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/SAGOR-OFFICIAL-09?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOSITORIES%20→-7b61ff?style=for-the-badge"/></a>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<a name="activity"></a>
+<h2 align="center">🔥 ACTIVITY</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAGOR-OFFICIAL-09/SAGOR-OFFICIAL-09/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/SAGOR-OFFICIAL-09/SAGOR-OFFICIAL-09/output/github-snake.svg" width="100%" alt="contribution snake"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SAGOR-OFFICIAL-09&hide_border=true&currStreakLabel=00b377&ring=5a3fe0&fire=00b377&background=ffffff&sideLabels=1b2a49&currStreakNum=1b2a49&sideNums=1b2a49&dates=55648a">
+  <img src="https://streak-stats.demolab.com/?user=SAGOR-OFFICIAL-09&hide_border=true&currStreakLabel=00b377&ring=5a3fe0&fire=00b377&background=0a0f1c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/>
+</picture>
+
+<br/>
+
+<img src="https://ghchart.rshah.org/00b377/SAGOR-OFFICIAL-09" width="90%" alt="contributions"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<a name="contact"></a>
+<h2 align="center">📡 LET'S CONNECT</h2>
+
+<div align="center">
+
+<a href="mailto:jahidullx6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00f5a0?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="https://github.com/SAGOR-OFFICIAL-09"><img src="https://img.shields.io/badge/GITHUB-00d9f5?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+<br/><br/>
+
+<a href="#top"><img src="https://img.shields.io/badge/⬆%20BACK%20TO%20TOP-555?style=flat-square&labelColor=555&color=00b377"/></a>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-lighttext.svg">
+  <img src="./assets/footer-darktext.svg" width="100%" alt="footer"/>
+</picture>
